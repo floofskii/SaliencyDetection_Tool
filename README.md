@@ -6,6 +6,9 @@ This Python script generates and evaluates saliency maps for three input images 
 Key Features:
 
 Saliency Map Generation: Computes fine-grained saliency maps for each input image.
+
 Image Processing: Resizes and converts images for consistency in analysis.
+
 Average Saliency Evaluation: Calculates the average saliency values of the generated maps.
+
 Visualization: Displays the saliency maps with their respective average values using Matplotlib.
